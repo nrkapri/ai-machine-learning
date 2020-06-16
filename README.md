@@ -1,6 +1,9 @@
 # machine-learning
 Machine learning Projects
-# Tools
+## Projects 
+focus projects 
+
+## Tools
 1. python
 2. numpy
 3. pandas
@@ -8,11 +11,11 @@ Machine learning Projects
 5. tensorflow and keras
 6. pytorch
 
-# Templates
+## Templates
 1. Data preprocessing 
 2. Data visualization
 
-# Regression 
+## Regression 
 1. Simple Linear Regression
 2. Multiple Linear Regression
 3. Polynomial Regression
@@ -21,7 +24,7 @@ Machine learning Projects
 6. Random Forest regression
 7. regularization methods 
 
-# Classification
+## Classification
 1. Logistic Regression
 2. KNN
 3. SVM
@@ -30,27 +33,27 @@ Machine learning Projects
 6. Decision tree classification
 7. Random Forest classification
 
-# Clustering
+## Clustering
 1. K means
 2. Hierarchical
 
-# Association Rules
+## Association Rules
 1. apriori
 2. eclat
 
-# Reinforcement learning
+## Reinforcement learning
 1. Upper confidence bound
 2. Thompson sampling
 
-# NLP 
+## NLP 
 1. NLP
 
-# Dimensionality reduction
+## Dimensionality reduction
 1. Principal component analysys 
 2. Linear Discriminant Ananlysys 
 3. Kernel PCA
 
-# Model Selection
+## Model Selection
 1. model selection
 2. XGBoost
 
