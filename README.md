@@ -14,6 +14,9 @@ focus projects
 ## Templates
 1. Data preprocessing 
 2. Data visualization
+3. Regression 
+4. Classification
+
 
 ## Regression 
 1. Simple Linear Regression
@@ -57,3 +60,14 @@ focus projects
 1. model selection
 2. XGBoost
 
+# Deep Learning
+
+## Supervised learning
+### ANN
+### CNN
+### RNN
+## Unsupervised learning
+### Self Organizing Maps
+### Boltzman Machine
+### Autoencoders
+### Generative Adversarial network
