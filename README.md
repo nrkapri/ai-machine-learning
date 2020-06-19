@@ -11,7 +11,10 @@ focus projects
 3. pandas
 4. matplotlib and seaborn
 5. tensorflow and keras
+   - https://www.tensorflow.org/tutorials/
+   - https://keras.io/examples/
 6. pytorch
+   - https://pytorch.org/tutorials/ 
 
 ## Templates
 1. Data preprocessing 
