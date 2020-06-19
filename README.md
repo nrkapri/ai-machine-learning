@@ -5,6 +5,8 @@ focus projects
 
 ## Tools
 1. python
+   - https://www.geeksforgeeks.org/python-programming-language/
+   - https://github.com/nrkapri/machine-learning/blob/master/tools/GeeksforGeeks_Python_tutorial.ipynb
 2. numpy
 3. pandas
 4. matplotlib and seaborn
