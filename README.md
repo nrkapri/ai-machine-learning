@@ -2,6 +2,21 @@
 Machine learning Projects
 ## Projects 
 focus projects 
+### Regression 
+### Classification
+### K-means clustering 
+### hierarchical clustering 
+### apriori 
+### NLP -- text classification
+### NLP -- text Generator
+### ANN
+### CNN
+### RNN
+### SOM
+### Boltzman machine
+### Autoencoder
+### GAN
+### Object Detection 
 
 ## Tools
 1. python
