@@ -9,6 +9,7 @@ focus projects
 ### apriori 
 ### NLP -- text classification
 ### NLP -- text Generator
+### NLP -- chatbot
 ### ANN
 ### CNN
 ### RNN
