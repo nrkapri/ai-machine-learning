@@ -8,6 +8,8 @@ focus projects
 ### hierarchical clustering 
 ### apriori 
 ### NLP -- text classification
+### NLP -- Sentiment analysis 
+### NLP -- Topic modeling
 ### NLP -- text Generator
 ### NLP -- chatbot
 ### ANN
