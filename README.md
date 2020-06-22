@@ -16,6 +16,7 @@ focus projects
 ### NLP -- Topic modeling
 -- [Labeling quora questions](http://localhost:8890/notebooks/machinelearning/git/machine-learning/nlp/topic-modeling/topic-modeling.ipynb)
 ### NLP -- text Generator
+-- [Asking machine learning to write a bengali poem](https://www.kaggle.com/nrkapri/asking-machine-learning-to-write-a-bengali-poem)
 ### NLP -- chatbot
 ### ANN
 ### CNN
