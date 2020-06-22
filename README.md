@@ -78,7 +78,11 @@ focus projects
 2. Thompson sampling
 
 ## NLP 
-1. NLP
+1. Text classification
+2. Sentiment analysis
+3. Topic modeling
+4. Text Generator
+5. Chatbot
 
 ## Dimensionality reduction
 1. Principal component analysys 
