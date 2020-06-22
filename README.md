@@ -14,6 +14,7 @@ focus projects
 ### NLP -- Sentiment analysis 
 -- [NLTK VADER sentiment analysis on imdb movie reviews](http://localhost:8890/notebooks/machinelearning/git/machine-learning/nlp/sentiment-analysis/Sentiment_Analysis.ipynb)
 ### NLP -- Topic modeling
+-- [Labeling quora questions](http://localhost:8890/notebooks/machinelearning/git/machine-learning/nlp/topic-modeling/topic-modeling.ipynb)
 ### NLP -- text Generator
 ### NLP -- chatbot
 ### ANN
