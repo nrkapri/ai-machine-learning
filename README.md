@@ -10,6 +10,7 @@ focus projects
 ### hierarchical clustering 
 ### apriori 
 ### NLP -- text classification
+-- [Analyzing restaurant reviews positive or negative](https://github.com/nrkapri/machine-learning/blob/master/nlp/text-classifier/nlp-textclassification.ipynb)
 ### NLP -- Sentiment analysis 
 ### NLP -- Topic modeling
 ### NLP -- text Generator
