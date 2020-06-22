@@ -1,6 +1,5 @@
 # machine-learning
-Machine learning Projects
-## Projects 
+## Machine learning Projects 
 focus projects 
 ### Regression 
 -- [Predict Wine Quality score](https://github.com/nrkapri/machine-learning/blob/master/regression-problem/Predict%20Wine%20Quality%20score%20--%20Regression%20model.ipynb)
