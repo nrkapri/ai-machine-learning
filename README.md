@@ -7,6 +7,7 @@ focus projects
 ### Classification
 -- [Multiclass classification with Iris Dataset.](https://github.com/nrkapri/machine-learning/blob/master/classification-problem/Multiclass%20classification%20with%20%20Iris%20Dataset.ipynb)
 ### K-means clustering 
+-- [K-Means Clustering to identify customer segments](https://github.com/nrkapri/machine-learning/blob/master/clustering-problem/k_means_clustering.ipynb)
 ### hierarchical clustering 
 ### apriori 
 ### NLP -- text classification
