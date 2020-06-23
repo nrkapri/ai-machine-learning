@@ -19,6 +19,7 @@ focus projects
 -- [Asking machine learning to write a bengali poem](https://www.kaggle.com/nrkapri/asking-machine-learning-to-write-a-bengali-poem)
 ### NLP -- chatbot
 ### ANN
+-- [Classifying malignant/Benign cancer with ANN](http://localhost:8891/notebooks/machinelearning/git/machine-learning/ann/ANN-classification.ipynb)
 ### CNN
 ### RNN
 ### SOM
