@@ -30,6 +30,7 @@ focus projects
 -- [Noise removal from Emnist image data with AutoEncoders](https://github.com/nrkapri/machine-learning/blob/master/autoencoder/autoencoder_emnist_image.ipynb)
 ### GAN
 ### Object Detection 
+-- [Object detection with facebook's Detectron2: Inference with pre-trained model](https://github.com/nrkapri/machine-learning/blob/master/object-detection/Detectron2_inference_with_pre_trained_model.ipynb)
 
 ## Tools
 1. python
