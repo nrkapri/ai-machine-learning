@@ -23,6 +23,7 @@ focus projects
 ### CNN
 -- [Image classifier for Fashion MNIST dataset](https://github.com/nrkapri/machine-learning/blob/master/cnn/cnn-fashion-emnist.ipynb)
 ### RNN
+-- [Predicting Google Stock price with RNN](https://github.com/nrkapri/machine-learning/blob/master/rnn/RNN_google_stock.ipynb)
 ### SOM
 ### Boltzman machine
 ### Autoencoder
