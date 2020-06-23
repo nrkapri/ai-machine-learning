@@ -27,6 +27,7 @@ focus projects
 ### SOM
 ### Boltzman machine
 ### Autoencoder
+-- [Noise removal from Emnist image data with AutoEncoders](https://github.com/nrkapri/machine-learning/blob/master/autoencoder/autoencoder_emnist_image.ipynb)
 ### GAN
 ### Object Detection 
 
