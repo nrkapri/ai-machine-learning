@@ -22,6 +22,8 @@ focus projects
 -- [Classifying malignant/Benign cancer with ANN](http://localhost:8891/notebooks/machinelearning/git/machine-learning/ann/ANN-classification.ipynb)
 ### CNN
 -- [Image classifier for Fashion MNIST dataset](https://github.com/nrkapri/machine-learning/blob/master/cnn/cnn-fashion-emnist.ipynb)
+--  CNN deep dream visualization 
+--  Style transfer 
 ### RNN
 -- [Predicting Google Stock price with RNN](https://github.com/nrkapri/machine-learning/blob/master/rnn/RNN_google_stock.ipynb)
 ### SOM
@@ -29,6 +31,7 @@ focus projects
 ### Autoencoder
 -- [Noise removal from Emnist image data with AutoEncoders](https://github.com/nrkapri/machine-learning/blob/master/autoencoder/autoencoder_emnist_image.ipynb)
 ### GAN
+--  Deep Fake video generation
 ### Object Detection 
 -- [Object detection with facebook's Detectron2: Inference with pre-trained model](https://github.com/nrkapri/machine-learning/blob/master/object-detection/Detectron2_inference_with_pre_trained_model.ipynb)
 
