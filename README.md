@@ -28,6 +28,7 @@
    -- [Emnist digit classification visualizer](https://www.cs.ryerson.ca/~aharley/vis/conv/ )
    
    -- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
+
 --  Style transfer 
 ### RNN
 -- [Predicting Google Stock price with RNN](https://github.com/nrkapri/machine-learning/blob/master/rnn/RNN_google_stock.ipynb)
