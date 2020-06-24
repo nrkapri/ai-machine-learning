@@ -22,7 +22,9 @@ focus projects
 -- [Classifying malignant/Benign cancer with ANN](http://localhost:8891/notebooks/machinelearning/git/machine-learning/ann/ANN-classification.ipynb)
 ### CNN
 -- [Image classifier for Fashion MNIST dataset](https://github.com/nrkapri/machine-learning/blob/master/cnn/cnn-fashion-emnist.ipynb)
+
 --  CNN deep dream visualization 
+
 --  Style transfer 
 ### RNN
 -- [Predicting Google Stock price with RNN](https://github.com/nrkapri/machine-learning/blob/master/rnn/RNN_google_stock.ipynb)
