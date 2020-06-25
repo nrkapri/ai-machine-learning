@@ -36,7 +36,8 @@
    
    -- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
 
---  Style transfer 
+--  [Neural Style transfer ](https://github.com/nrkapri/ai-machine-learning/blob/master/cnn/neural_style_transfer.ipynb)
+
 ### RNN
 -- [Predicting Google Stock price with RNN](https://github.com/nrkapri/machine-learning/blob/master/rnn/RNN_google_stock.ipynb)
 ### SOM
