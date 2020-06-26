@@ -2,7 +2,12 @@
 ### Q-Learning
 ### Deep Q Learning
 ### Deep Convolutional Q learning
+-- [Deep Q-Learning for Atari Breakout](https://keras.io/examples/rl/deep_q_network_breakout/)
+### Actor Critic Model
+-- [CartPole](https://keras.io/examples/rl/actor_critic_cartpole/)
 ### A3c
+### DDPG
+-- [Inverted Pendulum control problem](https://keras.io/examples/rl/ddpg_pendulum/)
 ### Twin Delayed DDPG
 ### ARS
 
