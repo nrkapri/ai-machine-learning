@@ -98,5 +98,9 @@ A tree is built by splitting the source set, constituting the root node of the t
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/25/Cart_tree_kyphosis.png)
 
-
+```python
+from sklearn.tree import DecisionTreeClassifier
+classifier = DecisionTreeClassifier(criterion = 'entropy', random_state = 0)
+classifier.fit(X_train, y_train)
+```
 
