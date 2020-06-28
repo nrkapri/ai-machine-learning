@@ -80,7 +80,7 @@ A particular test for whether someone has been using cannabis is 90% sensitive a
 Let {\displaystyle P({\text{User}}\mid {\text{Positive}})}{\displaystyle P({\text{User}}\mid {\text{Positive}})} mean "the probability that someone is a cannabis user given that he tests positive". Then we can write:
 ![Image](https://wikimedia.org/api/rest_v1/media/math/render/svg/88fc386e383ff18231f9be3c1d17e2d8ca3aa49a)
 
-*Naive Bayes Classifier:
+*[Naive Bayes Classifier:](https://en.wikipedia.org/wiki/Naive_Bayes_classifier#Probabilistic_model)
 
 ![Image](https://wikimedia.org/api/rest_v1/media/math/render/svg/d0d9f596ba491384422716b01dbe74472060d0d7)
 
