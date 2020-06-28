@@ -41,6 +41,27 @@ classifier = SVC(kernel = 'linear', random_state = 0)
 classifier.fit(X_train, y_train)
 ```
 
+#### Kernel SVM
+SVM algorithm is good for linearly seperable dataset. But for non-linearly seperable dataset we need Kernel SVM.
+
+Mapping to a higher Dimension: For nonlinearly seperable dataset can be transformed into linearly seperable dataset by use of mapping function. But mapping to higher dimension requires high computing power. 
+
+![Image](https://miro.medium.com/max/1400/1*zWzeMGyCc7KvGD9X8lwlnQ.png)
+
+Kernel Trick :  The “trick” is that kernel methods represent the data only through a set of pairwise similarity comparisons between the original data observations x (with the original coordinates in the lower dimensional space), instead of explicitly applying the transformations ϕ(x) and representing the data by these transformed coordinates in the higher dimensional feature space.
+
+In kernel methods, the data set X is represented by an n x n kernel matrix of pairwise similarity comparisons where the entries (i, j) are defined by the kernel function: k(xi, xj). This kernel function has a special mathematical property. The kernel function acts as a modified dot product. We have:
+
+![Image](https://miro.medium.com/max/1400/1*4hVAPL2cSycg0fYz3MZoYw.png)
+
+
+```python 
+from sklearn.svm import SVC
+classifier = SVC(kernel = 'rbf', random_state = 0)
+classifier.fit(X_train, y_train)
+```
+
+
 
 
 
