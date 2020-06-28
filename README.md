@@ -35,13 +35,13 @@
 
 -- [cart optimization](https://github.com/nrkapri/ai-machine-learning/blob/master/apriori/apriori.ipynb)
 
-Dimensionality reduction
-Principal component analysys
-Linear Discriminant Ananlysys
-Kernel PCA
-Model Selection
-model selection
-XGBoost
+### Dimensionality reduction
+#### Principal component analysys
+#### Linear Discriminant Ananlysys
+#### Kernel PCA
+### Model Selection
+#### model selection
+#### XGBoost
 
 # Deep Learning 
 
