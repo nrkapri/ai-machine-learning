@@ -37,6 +37,7 @@
 
 ### Dimensionality reduction
 #### Principal component analysys
+-- [Dimentionality Reduction with PCA](https://github.com/nrkapri/ai-machine-learning/blob/master/pca/principal_component_analysis.ipynb)
 #### Linear Discriminant Ananlysys
 #### Kernel PCA
 ### Model Selection
