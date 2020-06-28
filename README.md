@@ -14,6 +14,8 @@
 # Machine learning Projects 
 
 ### Regression 
+-- [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/regression-problem)
+
 -- [Predict Wine Quality score](https://github.com/nrkapri/machine-learning/blob/master/regression-problem/Predict%20Wine%20Quality%20score%20--%20Regression%20model.ipynb)
 ### Classification
 -- [Multiclass classification with Iris Dataset.](https://github.com/nrkapri/machine-learning/blob/master/classification-problem/Multiclass%20classification%20with%20%20Iris%20Dataset.ipynb)
