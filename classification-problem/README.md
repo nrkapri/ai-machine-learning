@@ -92,5 +92,11 @@ classifier.fit(X_train, y_train)
 ```
 
 
+#### Decision Tree Classification 
+
+A tree is built by splitting the source set, constituting the root node of the tree, into subsets—which constitute the successor children. The splitting is based on a set of splitting rules based on classification features.[4] This process is repeated on each derived subset in a recursive manner called recursive partitioning. The recursion is completed when the subset at a node has all the same values of the target variable, or when splitting no longer adds value to the predictions.
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/2/25/Cart_tree_kyphosis.png)
+
 
 
