@@ -70,5 +70,23 @@ Dendogram generated:
 ![Image ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hierarchical_clustering_simple_diagram.svg/418px-Hierarchical_clustering_simple_diagram.svg.png)
 
 
+Using the dendrogram to find the optimal number of clusters
+
+```python
+import scipy.cluster.hierarchy as sch
+dendrogram = sch.dendrogram(sch.linkage(X, method = 'ward'))
+plt.title('Dendrogram')
+plt.xlabel('Customers')
+plt.ylabel('Euclidean distances')
+plt.show()
+```
+
+Training the Hierarchical Clustering model 
+
+```python
+from sklearn.cluster import AgglomerativeClustering
+hc = AgglomerativeClustering(n_clusters = 5, affinity = 'euclidean', linkage = 'ward')
+y_hc = hc.fit_predict(X)
+```
 
 
