@@ -62,6 +62,28 @@ classifier.fit(X_train, y_train)
 ```
 
 
+#### Naive Bayes Classifier 
+
+*Bayes Theorem:  describes the probability of an event, based on prior knowledge of conditions that might be related to the event.
+
+![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/87c061fe1c7430a5201eef3fa50f9d00eac78810)
+
+where A and B are events and P(B)!= 0.
+
+P(A|B) is a conditional probability: the likelihood of event A occurring given that B is true.
+P(B|A) is also a conditional probability: the likelihood of event B occurring given that A is true.
+P(A) and P(B) are the probabilities of observing A and B respectively
+
+Example :
+Drug testing:
+A particular test for whether someone has been using cannabis is 90% sensitive and 80% specific, meaning it leads to 90% true "positive" results (meaning, "Yes he used cannabis") for cannabis users and 80% true negative results for non-users-- but also generates 20% false positives for non-users. Assuming 5% of people actually do use cannabis, what is the probability that a random person who tests positive is really a cannabis user?
+Let {\displaystyle P({\text{User}}\mid {\text{Positive}})}{\displaystyle P({\text{User}}\mid {\text{Positive}})} mean "the probability that someone is a cannabis user given that he tests positive". Then we can write:
+![Image](https://wikimedia.org/api/rest_v1/media/math/render/svg/88fc386e383ff18231f9be3c1d17e2d8ca3aa49a)
+
+
+
+
+
 
 
 
