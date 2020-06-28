@@ -50,7 +50,7 @@
 
 
 ### ANN
--- [Classifying malignant/Benign cancer with ANN](http://localhost:8891/notebooks/machinelearning/git/machine-learning/ann/ANN-classification.ipynb)
+-- [Classifying malignant/Benign cancer with ANN](https://github.com/nrkapri/ai-machine-learning/blob/master/ann/ANN-classification.ipynb)
 ### CNN
 -- [Image classifier for Fashion MNIST dataset](https://github.com/nrkapri/machine-learning/blob/master/cnn/cnn-fashion-emnist.ipynb)
 
