@@ -41,9 +41,9 @@
 #### Text classification with bag of words model
 -- [Analyzing restaurant reviews positive or negative](https://github.com/nrkapri/machine-learning/blob/master/nlp/text-classifier/nlp-textclassification.ipynb)
 #### Sentiment analysis 
--- [NLTK VADER sentiment analysis on imdb movie reviews](http://localhost:8890/notebooks/machinelearning/git/machine-learning/nlp/sentiment-analysis/Sentiment_Analysis.ipynb)
+-- [NLTK VADER sentiment analysis on imdb movie reviews](https://github.com/nrkapri/ai-machine-learning/blob/master/nlp/sentiment-analysis/Sentiment_Analysis.ipynb)
 #### Topic modeling
--- [Labeling quora questions](http://localhost:8890/notebooks/machinelearning/git/machine-learning/nlp/topic-modeling/topic-modeling.ipynb)
+-- [Labeling quora questions](https://github.com/nrkapri/ai-machine-learning/blob/master/nlp/topic-modeling/topic-modeling.ipynb)
 #### Text Generator
 -- [Asking machine learning to write a bengali poem](https://www.kaggle.com/nrkapri/asking-machine-learning-to-write-a-bengali-poem)
 #### chatbot
