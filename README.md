@@ -32,6 +32,7 @@
 
 ### apriori 
 -- [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/apriori)
+
 -- [cart optimization](https://github.com/nrkapri/ai-machine-learning/blob/master/apriori/apriori.ipynb)
 
 
