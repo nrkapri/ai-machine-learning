@@ -34,3 +34,13 @@ H1 does not separate the classes. H2 does, but only with a small margin. H3 sepa
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/SVM_margin.png/600px-SVM_margin.png)
 
 Maximum-margin hyperplane and margins for an SVM trained with samples from two classes. Samples on the margin are called the support vectors.
+
+```python
+from sklearn.svm import SVC
+classifier = SVC(kernel = 'linear', random_state = 0)
+classifier.fit(X_train, y_train)
+```
+
+
+
+
