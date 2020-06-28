@@ -39,7 +39,9 @@
 #### Principal component analysys
 -- [Dimentionality Reduction with PCA](https://github.com/nrkapri/ai-machine-learning/blob/master/dimentionality-reduction/principal_component_analysis.ipynb)
 #### Linear Discriminant Ananlysys
+-- [Dimentionality Reduction with LDA](https://github.com/nrkapri/ai-machine-learning/blob/master/dimentionality-reduction/linear_discriminant_analysis.ipynb)
 #### Kernel PCA
+-- [Dimentionality Reduction with Kernel PCA](https://github.com/nrkapri/ai-machine-learning/blob/master/dimentionality-reduction/kernel_pca.ipynb)
 ### Model Selection
 #### model selection
 #### XGBoost
