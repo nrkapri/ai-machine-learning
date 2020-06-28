@@ -45,7 +45,7 @@
 ### Model Selection
 -- [kfold-cross-validation](https://github.com/nrkapri/ai-machine-learning/blob/master/model-selection/k_fold_cross_validation.ipynb)
 
--- [Grid Search](https://github.com/nrkapri/ai-machine-learning/blob/master/model-selection/grid_search.ipynb)
+-- [Hyperparameter tuning with Grid Search](https://github.com/nrkapri/ai-machine-learning/blob/master/model-selection/grid_search.ipynb)
 #### XGBoost
 -- [XgBoost Demo ](https://github.com/nrkapri/ai-machine-learning/blob/master/xgboost/xg_boost.ipynb)
 # Deep Learning 
