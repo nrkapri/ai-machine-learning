@@ -38,7 +38,7 @@
 
 
 ### NLP 
-#### Text classification
+#### Text classification with bag of words model
 -- [Analyzing restaurant reviews positive or negative](https://github.com/nrkapri/machine-learning/blob/master/nlp/text-classifier/nlp-textclassification.ipynb)
 #### Sentiment analysis 
 -- [NLTK VADER sentiment analysis on imdb movie reviews](http://localhost:8890/notebooks/machinelearning/git/machine-learning/nlp/sentiment-analysis/Sentiment_Analysis.ipynb)
