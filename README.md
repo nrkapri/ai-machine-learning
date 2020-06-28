@@ -21,9 +21,14 @@
 -- [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/classification-problem)
 
 -- [Multiclass classification with Iris Dataset.](https://github.com/nrkapri/machine-learning/blob/master/classification-problem/Multiclass%20classification%20with%20%20Iris%20Dataset.ipynb)
-### K-means clustering 
+
+### Clustering 
+--  [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/clustering-problem)
+
+#### K-means clustering 
 -- [K-Means Clustering to identify customer segments](https://github.com/nrkapri/machine-learning/blob/master/clustering-problem/k_means_clustering.ipynb)
-### hierarchical clustering 
+#### hierarchical clustering 
+
 ### apriori 
 ### NLP -- text classification
 -- [Analyzing restaurant reviews positive or negative](https://github.com/nrkapri/machine-learning/blob/master/nlp/text-classifier/nlp-textclassification.ipynb)
