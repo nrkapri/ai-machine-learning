@@ -70,3 +70,13 @@ lin_reg_2 = LinearRegression()
 lin_reg_2.fit(X_poly, y)
 ```
 
+#### Support Vector Regression
+An SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible. SVR depends only on a subset of the training data, because the cost function for building the model ignores any training data close to the model prediction. 
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/SVM_margin.png/600px-SVM_margin.png)
+
+```python
+from sklearn.svm import SVR
+regressor = SVR(kernel = 'rbf')
+regressor.fit(X, y)
+```
