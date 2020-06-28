@@ -28,6 +28,7 @@
 #### K-means clustering 
 -- [K-Means Clustering to identify customer segments](https://github.com/nrkapri/machine-learning/blob/master/clustering-problem/k_means_clustering.ipynb)
 #### hierarchical clustering 
+-- [Hierarchical Clustering to identify customer segments](https://github.com/nrkapri/ai-machine-learning/blob/master/clustering-problem/hierarchical_clustering.ipynb)
 
 ### apriori 
 ### NLP -- text classification
