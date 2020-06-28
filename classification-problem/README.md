@@ -12,3 +12,14 @@ from sklearn.linear_model import LogisticRegression
 classifier = LogisticRegression(random_state = 0)
 classifier.fit(X_train, y_train)
 ```
+
+#### KNN Classification
+A case is classified by a majority vote of its neighbors, with the case being assigned to the class most common amongst its K nearest neighbors measured by a distance function. If K = 1, then the case is simply assigned to the class of its nearest neighbor. 
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/KnnClassification.svg/440px-KnnClassification.svg.png)
+![Pseudocode](https://www.researchgate.net/profile/Jung_Keun_Hyun/publication/260397165/figure/fig7/AS:214259620421658@1428094882662/Pseudocode-for-KNN-classification.png)
+
+```python
+from sklearn.neighbors import KNeighborsClassifier
+classifier = KNeighborsClassifier(n_neighbors = 5, metric = 'minkowski', p = 2)
+classifier.fit(X_train, y_train)
+```
