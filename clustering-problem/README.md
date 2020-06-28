@@ -39,3 +39,36 @@ kmeans = KMeans(n_clusters = 5, init = 'k-means++', random_state = 42)
 y_kmeans = kmeans.fit_predict(X)
 ```
 
+
+## Hierarchical Clustering
+
+#### Agglomerative: 
+This is a "bottom-up" approach: each observation starts in its own cluster, and pairs of clusters are merged as one moves up the hierarchy.
+#### Divisive:
+This is a "top-down" approach: all observations start in one cluster, and splits are performed recursively as one moves down the hierarchy.
+
+#### Agglomerative Pseudocode:
+
+* Step1:  make each datapoint a single cluster  --> forms N clusters
+
+* Step2: take two closest data points and make them one cluster -->  that forms N-1  clusters
+
+* Step3: take two closest clusters and make them one cluster --> forms N-2 clusters
+
+* Step4: repeat Step 3 untill there is only one cluster 
+
+
+In above steps the results are kept in memory which creates a dendogram .
+
+Data points:
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Clusters.svg/250px-Clusters.svg.png)
+
+
+Dendogram generated:
+
+![Image ](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hierarchical_clustering_simple_diagram.svg/418px-Hierarchical_clustering_simple_diagram.svg.png)
+
+
+
+
