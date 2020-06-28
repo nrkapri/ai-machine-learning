@@ -85,3 +85,20 @@ regressor.fit(X, y)
 Decision tree builds regression or classification models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed.
 ![Image](https://miro.medium.com/max/1400/1*avwrArcpwud-MBTgf6n-qw.png)
 ![Image](https://miro.medium.com/max/1400/1*XZ220vTa7rN8ccJZZNe09w.png)
+
+```python
+from sklearn.tree import DecisionTreeRegressor
+regressor = DecisionTreeRegressor(random_state = 0)
+regressor.fit(X, y)
+```
+
+#### RandomForest Regression
+*Ensemble learning :  take multiple algorithm or take same algorithm multiple times and build a much powerful algorithm.
+The basic idea behind RanndomForest is to combine multiple decision trees in determining the final output rather than relying on individual decision trees.
+![image](https://miro.medium.com/max/1400/0*f_qQPFpdofWGLQqc.png)
+
+```python
+from sklearn.ensemble import RandomForestRegressor
+regressor = RandomForestRegressor(n_estimators = 10, random_state = 0)
+regressor.fit(X, y)
+```
