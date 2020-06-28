@@ -104,3 +104,13 @@ classifier = DecisionTreeClassifier(criterion = 'entropy', random_state = 0)
 classifier.fit(X_train, y_train)
 ```
 
+#### Random Forest Classification 
+Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees. Random decision forests correct for decision trees' habit of overfitting to their training set.
+
+```python 
+from sklearn.ensemble import RandomForestClassifier
+classifier = RandomForestClassifier(n_estimators = 10, criterion = 'entropy', random_state = 0)
+classifier.fit(X_train, y_train)
+```
+
+
