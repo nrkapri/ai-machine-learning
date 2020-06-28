@@ -80,3 +80,8 @@ from sklearn.svm import SVR
 regressor = SVR(kernel = 'rbf')
 regressor.fit(X, y)
 ```
+
+#### Decision Tree Regression
+Decision tree builds regression or classification models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed.
+![Image](https://miro.medium.com/max/1400/1*avwrArcpwud-MBTgf6n-qw.png)
+![Image](https://miro.medium.com/max/1400/1*XZ220vTa7rN8ccJZZNe09w.png)
