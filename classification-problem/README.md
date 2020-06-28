@@ -1,6 +1,6 @@
 # Classification
 
-#### Logistic regression
+## Logistic regression
 Logistic regression is a statistical model that in its basic form uses a logistic function to model a binary dependent variable, although many more complex extensions exist. 
 
 ![Logistic Function ](https://wikimedia.org/api/rest_v1/media/math/render/svg/9e26947596d387d045be3baeb72c11270a065665)
@@ -13,7 +13,7 @@ classifier = LogisticRegression(random_state = 0)
 classifier.fit(X_train, y_train)
 ```
 
-#### KNN Classification
+## KNN Classification
 A case is classified by a majority vote of its neighbors, with the case being assigned to the class most common amongst its K nearest neighbors measured by a distance function. If K = 1, then the case is simply assigned to the class of its nearest neighbor. 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/KnnClassification.svg/440px-KnnClassification.svg.png)
 ![Pseudocode](https://www.researchgate.net/profile/Jung_Keun_Hyun/publication/260397165/figure/fig7/AS:214259620421658@1428094882662/Pseudocode-for-KNN-classification.png)
@@ -24,7 +24,7 @@ classifier = KNeighborsClassifier(n_neighbors = 5, metric = 'minkowski', p = 2)
 classifier.fit(X_train, y_train)
 ```
 
-#### SVM 
+## SVM 
 An SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible. New examples are then mapped into that same space and predicted to belong to a category based on the side of the gap on which they fall.
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Svm_separating_hyperplanes_%28SVG%29.svg/440px-Svm_separating_hyperplanes_%28SVG%29.svg.png)
@@ -41,7 +41,7 @@ classifier = SVC(kernel = 'linear', random_state = 0)
 classifier.fit(X_train, y_train)
 ```
 
-#### Kernel SVM
+## Kernel SVM
 SVM algorithm is good for linearly seperable dataset. But for non-linearly seperable dataset we need Kernel SVM.
 
 Mapping to a higher Dimension: For nonlinearly seperable dataset can be transformed into linearly seperable dataset by use of mapping function. But mapping to higher dimension requires high computing power. 
@@ -62,9 +62,10 @@ classifier.fit(X_train, y_train)
 ```
 
 
-#### Naive Bayes Classifier 
+## Naive Bayes Classifier 
 
-*Bayes Theorem:  describes the probability of an event, based on prior knowledge of conditions that might be related to the event.
+#### Bayes Theorem:  
+describes the probability of an event, based on prior knowledge of conditions that might be related to the event.
 
 ![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/87c061fe1c7430a5201eef3fa50f9d00eac78810)
 
@@ -92,7 +93,7 @@ classifier.fit(X_train, y_train)
 ```
 
 
-#### Decision Tree Classification 
+## Decision Tree Classification 
 
 A tree is built by splitting the source set, constituting the root node of the tree, into subsets—which constitute the successor children. The splitting is based on a set of splitting rules based on classification features.[4] This process is repeated on each derived subset in a recursive manner called recursive partitioning. The recursion is completed when the subset at a node has all the same values of the target variable, or when splitting no longer adds value to the predictions.
 
@@ -104,7 +105,7 @@ classifier = DecisionTreeClassifier(criterion = 'entropy', random_state = 0)
 classifier.fit(X_train, y_train)
 ```
 
-#### Random Forest Classification 
+## Random Forest Classification 
 Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees. Random decision forests correct for decision trees' habit of overfitting to their training set.
 
 ![Image](https://miro.medium.com/max/1148/0*a8KgF1IINziv7KIQ.png)
