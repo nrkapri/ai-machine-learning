@@ -3,7 +3,7 @@ An artificial neural network is an interconnected group of nodes, inspired by a 
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Colored_neural_network.svg/560px-Colored_neural_network.svg.png)
 
-#### Neuron 
+### Neuron 
 
 ANNs are composed of artificial neurons which retain the biological concept of neurons, which receive input, combine the input with their internal state (activation) and an optional threshold using an activation function, and produce output using an output function. The initial inputs are external data, such as images and documents. The ultimate outputs accomplish the task, such as recognizing an object in an image. The important characteristic of the activation function is that it provides a smooth, differentiable transition as input values change, i.e. a small change in input produces a small change in output.
 
@@ -23,7 +23,33 @@ The output is analogous to the axon of a biological neuron, and its value propag
 It has no learning process as such. Its transfer function weights are calculated and threshold value are predetermined.
 
 
-#### Activation Function
+### Activation Function
+
+#### Step Function :
+Activation function A = “activated” if Y > threshold else not
+Alternatively, A = 1 if y> threshold, 0 otherwise
+
+![Image](https://miro.medium.com/max/650/0*8U8_aa9hMsGmzMY2.)
+
+#### Sigmoid Function
+
+![Image](https://wikimedia.org/api/rest_v1/media/math/render/svg/9537e778e229470d85a68ee0b099c08298a1a3f6)
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logistic-curve.svg/640px-Logistic-curve.svg.png)
+
+#### ReLu
+
+![Image](https://wikimedia.org/api/rest_v1/media/math/render/svg/e9c5f17dbc2be5cb379c1894b3a43561f296cf5c)
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rectifier_and_softplus_functions.svg/440px-Rectifier_and_softplus_functions.svg.png)
+
+#### Tanh Function
+It is nonlinear in nature, so great we can stack layers! It is bound to range (-1, 1)
+
+![Image](https://miro.medium.com/max/1288/1*WNTLbBRWFiHPoXvyZ6s9eg.png)
+
+![Image](https://miro.medium.com/max/800/0*YJ27cYXmTAUFZc9Z.)
+
+
 
 #### Gradient Descent
 
