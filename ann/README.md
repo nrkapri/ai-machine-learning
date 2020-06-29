@@ -52,6 +52,11 @@ It is nonlinear in nature, so great we can stack layers! It is bound to range (-
 
 
 #### Gradient Descent
+Gradient descent is an optimization algorithm used to minimize some function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient. In machine learning, we use gradient descent to update the parameters of our model.
+
+![Image](https://ml-cheatsheet.readthedocs.io/en/latest/_images/gradient_descent_demystified.png)
+
+[Resource](https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html#:~:text=Gradient%20descent%20is%20an%20optimization,the%20parameters%20of%20our%20model.)
 
 #### Stochastic Gradient Descend 
 
