@@ -80,15 +80,34 @@
 -- [Object detection with facebook's Detectron2: Inference with pre-trained model](https://github.com/nrkapri/machine-learning/blob/master/object-detection/Detectron2_inference_with_pre_trained_model.ipynb)
 
 # NLP 
+https://keras.io/examples/nlp/
+
 #### Text classification with bag of words model
 -- [Analyzing restaurant reviews positive or negative](https://github.com/nrkapri/machine-learning/blob/master/nlp/text-classifier/nlp-textclassification.ipynb)
+https://keras.io/examples/nlp/text_classification_from_scratch/
+
 #### Sentiment analysis 
 -- [NLTK VADER sentiment analysis on imdb movie reviews](https://github.com/nrkapri/ai-machine-learning/blob/master/nlp/sentiment-analysis/Sentiment_Analysis.ipynb)
 #### Topic modeling
 -- [Labeling quora questions](https://github.com/nrkapri/ai-machine-learning/blob/master/nlp/topic-modeling/topic-modeling.ipynb)
 #### Text Generator
 -- [Asking machine learning to write a bengali poem](https://www.kaggle.com/nrkapri/asking-machine-learning-to-write-a-bengali-poem)
-#### chatbot
+
+https://github.com/samurainote/Text_Generation_using_GRU
+
+
+#### chatbot (seq2seq model)
+https://github.com/samurainote/Automatic-Encoder-Decoder_Seq2Seq_Chatbot
+
+#### Machine Translation 
+https://github.com/samurainote/seq2seq_translate_slackbot
+https://github.com/nrkapri/practical_seq2seq
+https://github.com/nrkapri/seq2seq-chatbot
+
+#### Question Answering chatbot 
+
+#### Abstract Text Summarization 
+https://github.com/samurainote/Text_Summarization_using_Bidirectional_LSTM
 
 #### BERT
 
