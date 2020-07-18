@@ -68,6 +68,8 @@
 ### RNN
 -- [Predicting Google Stock price with RNN](https://github.com/nrkapri/machine-learning/blob/master/rnn/RNN_google_stock.ipynb)
 
+music composer
+
 ## Unsupervised learning
 
 ### SOM
