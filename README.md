@@ -114,6 +114,9 @@ https://github.com/samurainote/Text_Summarization_using_Bidirectional_LSTM
 #### BERT
 
 HuggingFace
+Megatron
+RoBerta
+Transformers 
 
 
 
