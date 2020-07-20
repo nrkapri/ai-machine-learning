@@ -106,12 +106,16 @@ https://github.com/samurainote/seq2seq_translate_slackbot
 https://github.com/nrkapri/practical_seq2seq
 https://github.com/nrkapri/seq2seq-chatbot
 
-#### Question Answering chatbot 
+#### Question Answering chatbot Squad
 
 #### Abstract Text Summarization 
 https://github.com/samurainote/Text_Summarization_using_Bidirectional_LSTM
 
 #### BERT
+
+HuggingFace
+
+
 
 ## Tools
 1. python
