@@ -117,6 +117,9 @@ HuggingFace
 Megatron
 RoBerta
 Transformers 
+Glove
+word2vec
+gensim
 
 
 
