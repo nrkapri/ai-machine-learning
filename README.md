@@ -121,6 +121,69 @@ Glove
 word2vec
 gensim
 
+ELMo
+
+generating image description
+
+Metrics 
+ROUGE, BLEU
+
+chitchat bot
+question 
+
+Natural Language Generation 
+MLT
+Summarization:
+
+
+
+Chit Chat -- Dialog 
+Creative Writing -- story telling, poetry generation 
+Freeform Question answering 
+Image Captioning 
+
+
+NeuralGen Workshop
+Storytelling Workshop
+Alexa Challenge 
+ConvAI2 NeuralPS 
+
+
+Decoding Algo:
+Beam Search 
+Greedy 
+
+CNN for NLP:
+Question
+
+
+Question Answering over Text:
+MC Test Reading Comprehension Test
+Squad 
+DeepQA
+Jeopardy IBM
+
+Standford Attention reader 
+FusionNet
+
+
+Named Entity Recognition
+
+GPT-3
+
+
+Project structure :
+1.  Abstract Introduction
+2.  Prior related work
+3.  Model
+4.  Model
+5.  Data
+6.  Experiments
+7.  Results
+8.  Analysis and Conclusion
+
+
+
 
 
 ## Tools
