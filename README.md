@@ -16,13 +16,13 @@
 # NLP 
 
 #### Text classification with bag of words model built with RNN
--- [Analyzing restaurant reviews positive or negative](https://github.com/nrkapri/machine-learning/blob/master/nlp/text-classifier/nlp-textclassification.ipynb)
+-- [Analyzing restaurant reviews positive or negative](https://github.com/nrkapri/machine-learning/blob/master/code/nlp/text-classifier/nlp-textclassification.ipynb)
 https://keras.io/examples/nlp/text_classification_from_scratch/
 
 #### Sentiment analysis with NLTK
--- [NLTK VADER sentiment analysis on imdb movie reviews](https://github.com/nrkapri/ai-machine-learning/blob/master/nlp/sentiment-analysis/Sentiment_Analysis.ipynb)
+-- [NLTK VADER sentiment analysis on imdb movie reviews](https://github.com/nrkapri/ai-machine-learning/blob/master/code/nlp/sentiment-analysis/Sentiment_Analysis.ipynb)
 #### Topic modeling
--- [Labeling quora questions](https://github.com/nrkapri/ai-machine-learning/blob/master/nlp/topic-modeling/topic-modeling.ipynb)
+-- [Labeling quora questions](https://github.com/nrkapri/ai-machine-learning/blob/master/code/nlp/topic-modeling/topic-modeling.ipynb)
 #### Text Generator
 -- [RNN based Text Generation model:  Asking machine learning to write a bengali poem](https://www.kaggle.com/nrkapri/asking-machine-learning-to-write-a-bengali-poem)
 
@@ -118,48 +118,48 @@ Project structure :
 # Machine learning Projects 
 
 ### Regression 
--- [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/regression-problem)
+-- [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/code/regression-problem)
 
--- [Predict Wine Quality score](https://github.com/nrkapri/machine-learning/blob/master/regression-problem/Predict%20Wine%20Quality%20score%20--%20Regression%20model.ipynb)
+-- [Predict Wine Quality score](https://github.com/nrkapri/machine-learning/blob/master/code/regression-problem/Predict%20Wine%20Quality%20score%20--%20Regression%20model.ipynb)
 ### Classification
--- [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/classification-problem)
+-- [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/code/classification-problem)
 
--- [Multiclass classification with Iris Dataset.](https://github.com/nrkapri/machine-learning/blob/master/classification-problem/Multiclass%20classification%20with%20%20Iris%20Dataset.ipynb)
+-- [Multiclass classification with Iris Dataset.](https://github.com/nrkapri/machine-learning/blob/master/code/classification-problem/Multiclass%20classification%20with%20%20Iris%20Dataset.ipynb)
 
 ### Clustering 
---  [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/clustering-problem)
+--  [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/code/clustering-problem)
 
 #### K-means clustering 
--- [K-Means Clustering to identify customer segments](https://github.com/nrkapri/machine-learning/blob/master/clustering-problem/k_means_clustering.ipynb)
+-- [K-Means Clustering to identify customer segments](https://github.com/nrkapri/machine-learning/blob/master/code/clustering-problem/k_means_clustering.ipynb)
 #### hierarchical clustering 
--- [Hierarchical Clustering to identify customer segments](https://github.com/nrkapri/ai-machine-learning/blob/master/clustering-problem/hierarchical_clustering.ipynb)
+-- [Hierarchical Clustering to identify customer segments](https://github.com/nrkapri/ai-machine-learning/blob/master/code/clustering-problem/hierarchical_clustering.ipynb)
 
 ### Association Rule :apriori 
--- [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/apriori)
+-- [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/code/apriori)
 
--- [cart optimization](https://github.com/nrkapri/ai-machine-learning/blob/master/apriori/apriori.ipynb)
+-- [cart optimization](https://github.com/nrkapri/ai-machine-learning/blob/master/code/apriori/apriori.ipynb)
 
 ### Dimensionality reduction
 #### Principal component analysys
--- [Dimentionality Reduction with PCA](https://github.com/nrkapri/ai-machine-learning/blob/master/dimentionality-reduction/principal_component_analysis.ipynb)
+-- [Dimentionality Reduction with PCA](https://github.com/nrkapri/ai-machine-learning/blob/master/code/dimentionality-reduction/principal_component_analysis.ipynb)
 #### Linear Discriminant Ananlysys
--- [Dimentionality Reduction with LDA](https://github.com/nrkapri/ai-machine-learning/blob/master/dimentionality-reduction/linear_discriminant_analysis.ipynb)
+-- [Dimentionality Reduction with LDA](https://github.com/nrkapri/ai-machine-learning/blob/master/code/dimentionality-reduction/linear_discriminant_analysis.ipynb)
 #### Kernel PCA
--- [Dimentionality Reduction with Kernel PCA](https://github.com/nrkapri/ai-machine-learning/blob/master/dimentionality-reduction/kernel_pca.ipynb)
+-- [Dimentionality Reduction with Kernel PCA](https://github.com/nrkapri/ai-machine-learning/blob/master/code/dimentionality-reduction/kernel_pca.ipynb)
 ### Model Selection
--- [kfold-cross-validation](https://github.com/nrkapri/ai-machine-learning/blob/master/model-selection/k_fold_cross_validation.ipynb)
+-- [kfold-cross-validation](https://github.com/nrkapri/ai-machine-learning/blob/master/code/model-selection/k_fold_cross_validation.ipynb)
 
--- [Hyperparameter tuning with Grid Search](https://github.com/nrkapri/ai-machine-learning/blob/master/model-selection/grid_search.ipynb)
+-- [Hyperparameter tuning with Grid Search](https://github.com/nrkapri/ai-machine-learning/blob/master/code/model-selection/grid_search.ipynb)
 #### XGBoost
--- [XgBoost Demo ](https://github.com/nrkapri/ai-machine-learning/blob/master/xgboost/xg_boost.ipynb)
+-- [XgBoost Demo ](https://github.com/nrkapri/ai-machine-learning/blob/master/code/xgboost/xg_boost.ipynb)
 # Deep Learning 
 
 ## Supervised learning
 
 ### ANN
--- [Classifying malignant/Benign cancer with ANN](https://github.com/nrkapri/ai-machine-learning/blob/master/ann/ANN-classification.ipynb)
+-- [Classifying malignant/Benign cancer with ANN](https://github.com/nrkapri/ai-machine-learning/blob/master/code/ann/ANN-classification.ipynb)
 ### CNN
--- [Image classifier for Fashion MNIST dataset](https://github.com/nrkapri/machine-learning/blob/master/cnn/cnn-fashion-emnist.ipynb)
+-- [Image classifier for Fashion MNIST dataset](https://github.com/nrkapri/machine-learning/blob/master/code/cnn/cnn-fashion-emnist.ipynb)
 
 --  CNN deep dream visualization 
    
@@ -167,10 +167,10 @@ Project structure :
    
    -- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
 
---  [Neural Style transfer ](https://github.com/nrkapri/ai-machine-learning/blob/master/cnn/neural_style_transfer.ipynb)
+--  [Neural Style transfer ](https://github.com/nrkapri/ai-machine-learning/blob/master/code/cnn/neural_style_transfer.ipynb)
 
 ### RNN
--- [Predicting Google Stock price with RNN](https://github.com/nrkapri/machine-learning/blob/master/rnn/RNN_google_stock.ipynb)
+-- [Predicting Google Stock price with RNN](https://github.com/nrkapri/machine-learning/blob/master/code/rnn/RNN_google_stock.ipynb)
 
 music composer
 
@@ -179,11 +179,11 @@ music composer
 ### SOM
 ### Boltzman machine
 ### Autoencoder
--- [Noise removal from Emnist image data with AutoEncoders](https://github.com/nrkapri/machine-learning/blob/master/autoencoder/autoencoder_emnist_image.ipynb)
+-- [Noise removal from Emnist image data with AutoEncoders](https://github.com/nrkapri/machine-learning/blob/master/code/autoencoder/autoencoder_emnist_image.ipynb)
 ### GAN
 --  Deep Fake video generation
 ### Object Detection 
--- [Object detection with facebook's Detectron2: Inference with pre-trained model](https://github.com/nrkapri/machine-learning/blob/master/object-detection/Detectron2_inference_with_pre_trained_model.ipynb)
+-- [Object detection with facebook's Detectron2: Inference with pre-trained model](https://github.com/nrkapri/machine-learning/blob/master/code/object-detection/Detectron2_inference_with_pre_trained_model.ipynb)
 
 
 
