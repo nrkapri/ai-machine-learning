@@ -14,21 +14,17 @@
 
 
 # NLP 
-https://keras.io/examples/nlp/
 
-#### Text classification with bag of words model
+#### Text classification with bag of words model built with RNN
 -- [Analyzing restaurant reviews positive or negative](https://github.com/nrkapri/machine-learning/blob/master/nlp/text-classifier/nlp-textclassification.ipynb)
 https://keras.io/examples/nlp/text_classification_from_scratch/
 
-#### Sentiment analysis 
+#### Sentiment analysis with NLTK
 -- [NLTK VADER sentiment analysis on imdb movie reviews](https://github.com/nrkapri/ai-machine-learning/blob/master/nlp/sentiment-analysis/Sentiment_Analysis.ipynb)
 #### Topic modeling
 -- [Labeling quora questions](https://github.com/nrkapri/ai-machine-learning/blob/master/nlp/topic-modeling/topic-modeling.ipynb)
 #### Text Generator
--- [Asking machine learning to write a bengali poem](https://www.kaggle.com/nrkapri/asking-machine-learning-to-write-a-bengali-poem)
-
-https://github.com/samurainote/Text_Generation_using_GRU
-
+-- [RNN based Text Generation model:  Asking machine learning to write a bengali poem](https://www.kaggle.com/nrkapri/asking-machine-learning-to-write-a-bengali-poem)
 
 #### chatbot (seq2seq model)
 https://github.com/samurainote/Automatic-Encoder-Decoder_Seq2Seq_Chatbot
@@ -102,7 +98,7 @@ FusionNet
 Named Entity Recognition
 
 GPT-3
-
+https://keras.io/examples/nlp/
 
 Project structure :
 1.  Abstract Introduction
