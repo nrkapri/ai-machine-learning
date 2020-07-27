@@ -170,7 +170,7 @@ Project structure :
 -- [Neural Style transfer ](https://github.com/nrkapri/ai-machine-learning/blob/master/code/cnn/neural_style_transfer.ipynb)
 
 
-./doc/CNN_style_transfer.png
+![Neural Style Transfer ] (/doc/CNN_style_transfer.png)
 
 
 ### RNN
