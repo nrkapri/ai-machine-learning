@@ -191,6 +191,8 @@ music composer
 ![Object Detection With Detectron ](doc/detectron.png)
 
 
+-- [Object Detection with Tensorflow FasterRCNN+InceptionResNet V2 ](https://github.com/nrkapri/ai-machine-learning/blob/master/code/object-detection/Object_detection.ipynb)
+![Object Detection With FasterRCNN+InceptionResNet  ](doc/FasterRCNN.png)
 
 
 ## Tools
