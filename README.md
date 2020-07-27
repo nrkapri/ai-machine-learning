@@ -168,7 +168,7 @@ Project structure :
 -- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
 
 -- [Neural Style transfer ](https://github.com/nrkapri/ai-machine-learning/blob/master/code/cnn/neural_style_transfer.ipynb)
-[](doc/CNN_style_transfer.png)
+[Test ](./doc/CNN_style_transfer.png)
 
 
 ### RNN
