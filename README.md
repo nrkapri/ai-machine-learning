@@ -163,11 +163,13 @@ Project structure :
 
 --  CNN deep dream visualization 
    
-   -- [Emnist digit classification visualizer](https://www.cs.ryerson.ca/~aharley/vis/conv/ )
+-- [Emnist digit classification visualizer](https://www.cs.ryerson.ca/~aharley/vis/conv/ )
    
-   -- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
+-- [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
 
---  [Neural Style transfer ](https://github.com/nrkapri/ai-machine-learning/blob/master/code/cnn/neural_style_transfer.ipynb)
+-- [Neural Style transfer ](https://github.com/nrkapri/ai-machine-learning/blob/master/code/cnn/neural_style_transfer.ipynb)
+[](doc/CNN_style_transfer.png)
+
 
 ### RNN
 -- [Predicting Google Stock price with RNN](https://github.com/nrkapri/machine-learning/blob/master/code/rnn/RNN_google_stock.ipynb)
