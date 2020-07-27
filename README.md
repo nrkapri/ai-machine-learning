@@ -188,6 +188,7 @@ music composer
 --  Deep Fake video generation
 ### Object Detection 
 -- [Object detection with facebook's Detectron2: Inference with pre-trained model](https://github.com/nrkapri/machine-learning/blob/master/code/object-detection/Detectron2_inference_with_pre_trained_model.ipynb)
+![Object Detection With Detectron ](doc/detectron.png)
 
 
 
