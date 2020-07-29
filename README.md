@@ -159,9 +159,11 @@ Project structure :
 ### ANN
 -- [Classifying malignant/Benign cancer with ANN](https://github.com/nrkapri/ai-machine-learning/blob/master/code/ann/ANN-classification.ipynb)
 ### CNN
--- [Image classifier for Fashion MNIST dataset](https://github.com/nrkapri/machine-learning/blob/master/code/cnn/cnn-fashion-emnist.ipynb)
+-- [Image classifier for Fashion MNIST dataset](https://github.com/nrkapri/ai-machine-learning/blob/master/code/cnn/cnn-fashion-emnist.ipynb)
 
---  CNN deep dream visualization 
+--  [CNN deep dream visualization ](  https://github.com/nrkapri/ai-machine-learning/blob/master/code/cnn/deep_dream.ipynb)
+![Deep Dream](doc/deepdream.png)
+
    
 -- [Emnist digit classification visualizer](https://www.cs.ryerson.ca/~aharley/vis/conv/ )
    
