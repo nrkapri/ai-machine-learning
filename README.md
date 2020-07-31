@@ -121,6 +121,9 @@ Project structure :
 -- [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/code/regression-problem)
 
 -- [Predict Wine Quality score](https://github.com/nrkapri/machine-learning/blob/master/code/regression-problem/Predict%20Wine%20Quality%20score%20--%20Regression%20model.ipynb)
+
+![Regression](doc/regression.png)
+
 ### Classification
 -- [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/code/classification-problem)
 
@@ -131,8 +134,13 @@ Project structure :
 
 #### K-means clustering 
 -- [K-Means Clustering to identify customer segments](https://github.com/nrkapri/machine-learning/blob/master/code/clustering-problem/k_means_clustering.ipynb)
+
+![K-means clustering ](doc/clustering.png)
+
 #### hierarchical clustering 
 -- [Hierarchical Clustering to identify customer segments](https://github.com/nrkapri/ai-machine-learning/blob/master/code/clustering-problem/hierarchical_clustering.ipynb)
+
+![Hierchical clustering ](doc/dendogram.png)
 
 ### Association Rule :apriori 
 -- [Intuition](https://github.com/nrkapri/ai-machine-learning/tree/master/code/apriori)
