@@ -178,6 +178,8 @@ Project structure :
 ### RNN
 -- [Predicting Google Stock price with RNN](https://github.com/nrkapri/machine-learning/blob/master/code/rnn/RNN_google_stock.ipynb)
 
+![Predict Google stock price  ](doc/RNN_Google_stock.png)
+
 music composer
 
 ## Unsupervised learning
