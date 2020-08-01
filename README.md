@@ -193,6 +193,8 @@ music composer
 ## Unsupervised learning
 
 ### SOM
+-- [Detecting Fraud in Credit Card Applications](https://github.com/nrkapri/machine-learning/blob/master/code/som/SOM.ipynb)
+![SOM](doc/SOM.png)
 ### Boltzman machine
 ### Autoencoder
 -- [Noise removal from Emnist image data with AutoEncoders](https://github.com/nrkapri/machine-learning/blob/master/code/autoencoder/autoencoder_emnist_image.ipynb)
