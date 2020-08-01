@@ -198,12 +198,8 @@ music composer
 -- [Noise removal from Emnist image data with AutoEncoders](https://github.com/nrkapri/machine-learning/blob/master/code/autoencoder/autoencoder_emnist_image.ipynb)
 
 
-![Autoencoder](doc/ae_original.png)
-original 
-![Autoencoder](doc/ae_noisy.png)
-noisy
-![Autoencoder](doc/ae_new.png)
-reconstructed
+![Autoencoder](doc/ae_original.png) | ![Autoencoder](doc/ae_noisy.png) | ![Autoencoder](doc/ae_new.png)
+Original |  Noisy | Reconstructed
 
 ### GAN
 --  Deep Fake video generation
