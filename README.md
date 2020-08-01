@@ -199,8 +199,12 @@ music composer
 
 
 ![Autoencoder](doc/ae_original.png)
+original 
 ![Autoencoder](doc/ae_noisy.png)
+noisy
 ![Autoencoder](doc/ae_new.png)
+reconstructed
+
 ### GAN
 --  Deep Fake video generation
 ### Object Detection 
